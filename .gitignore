@@ -1,0 +1,3 @@
+# continutul fisierului .gitignore:
+.venv/
+__pycache__/
